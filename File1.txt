@@ -8,3 +8,4 @@ ConflictBranch
 Fixing an issue on the main branch
 Writing out line 1
 Writing out line 2
+Writing out line 3
